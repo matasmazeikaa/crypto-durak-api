@@ -1,0 +1,291 @@
+cards: [
+    Card {
+      id: 'card-clubs-11',
+      suit: 'clubs',
+      rank: 11,
+      weight: 21,
+      label: 'J',
+      trump: true
+    },
+    Card {
+      id: 'card-diamonds-13',
+      suit: 'diamonds',
+      rank: 13,
+      weight: 13,
+      label: 'K',
+      trump: false
+    },
+    Card {
+      id: 'card-clubs-8',
+      suit: 'clubs',
+      rank: 8,
+      weight: 18,
+      label: '8',
+      trump: true
+    },
+    Card {
+      id: 'card-diamonds-11',
+      suit: 'diamonds',
+      rank: 11,
+      weight: 11,
+      label: 'J',
+      trump: false
+    },
+    Card {
+      id: 'card-clubs-13',
+      suit: 'clubs',
+      rank: 13,
+      weight: 23,
+      label: 'K',
+      trump: true
+    },
+    Card {
+      id: 'card-hearts-14',
+      suit: 'hearts',
+      rank: 14,
+      weight: 14,
+      label: 'A',
+      trump: false
+    },
+    Card {
+      id: 'card-diamonds-9',
+      suit: 'diamonds',
+      rank: 9,
+      weight: 9,
+      label: '9',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-9',
+      suit: 'spades',
+      rank: 9,
+      weight: 9,
+      label: '9',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-8',
+      suit: 'spades',
+      rank: 8,
+      weight: 8,
+      label: '8',
+      trump: false
+    },
+    Card {
+      id: 'card-hearts-6',
+      suit: 'hearts',
+      rank: 6,
+      weight: 6,
+      label: '6',
+      trump: false
+    },
+    Card {
+      id: 'card-diamonds-7',
+      suit: 'diamonds',
+      rank: 7,
+      weight: 7,
+      label: '7',
+      trump: false
+    },
+    Card {
+      id: 'card-hearts-8',
+      suit: 'hearts',
+      rank: 8,
+      weight: 8,
+      label: '8',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-6',
+      suit: 'spades',
+      rank: 6,
+      weight: 6,
+      label: '6',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-11',
+      suit: 'spades',
+      rank: 11,
+      weight: 11,
+      label: 'J',
+      trump: false
+    },
+    Card {
+      id: 'card-diamonds-6',
+      suit: 'diamonds',
+      rank: 6,
+      weight: 6,
+      label: '6',
+      trump: false
+    },
+    Card {
+      id: 'card-hearts-13',
+      suit: 'hearts',
+      rank: 13,
+      weight: 13,
+      label: 'K',
+      trump: false
+    },
+    Card {
+      id: 'card-diamonds-8',
+      suit: 'diamonds',
+      rank: 8,
+      weight: 8,
+      label: '8',
+      trump: false
+    },
+    Card {
+      id: 'card-clubs-10',
+      suit: 'clubs',
+      rank: 10,
+      weight: 20,
+      label: '10',
+      trump: true
+    },
+    Card {
+      id: 'card-clubs-7',
+      suit: 'clubs',
+      rank: 7,
+      weight: 17,
+      label: '7',
+      trump: true
+    },
+    Card {
+      id: 'card-clubs-6',
+      suit: 'clubs',
+      rank: 6,
+      weight: 16,
+      label: '6',
+      trump: true
+    },
+    Card {
+      id: 'card-hearts-7',
+      suit: 'hearts',
+      rank: 7,
+      weight: 7,
+      label: '7',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-12',
+      suit: 'spades',
+      rank: 12,
+      weight: 12,
+      label: 'Q',
+      trump: false
+    },
+    Card {
+      id: 'card-clubs-9',
+      suit: 'clubs',
+      rank: 9,
+      weight: 19,
+      label: '9',
+      trump: true
+    },
+    Card {
+      id: 'card-clubs-14',
+      suit: 'clubs',
+      rank: 14,
+      weight: 24,
+      label: 'A',
+      trump: true
+    },
+    Card {
+      id: 'card-diamonds-14',
+      suit: 'diamonds',
+      rank: 14,
+      weight: 14,
+      label: 'A',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-7',
+      suit: 'spades',
+      rank: 7,
+      weight: 7,
+      label: '7',
+      trump: false
+    },
+    Card {
+      id: 'card-hearts-9',
+      suit: 'hearts',
+      rank: 9,
+      weight: 9,
+      label: '9',
+      trump: false
+    },
+    Card {
+      id: 'card-hearts-12',
+      suit: 'hearts',
+      rank: 12,
+      weight: 12,
+      label: 'Q',
+      trump: false
+    },
+    Card {
+      id: 'card-hearts-11',
+      suit: 'hearts',
+      rank: 11,
+      weight: 11,
+      label: 'J',
+      trump: false
+    },
+    Card {
+      id: 'card-diamonds-12',
+      suit: 'diamonds',
+      rank: 12,
+      weight: 12,
+      label: 'Q',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-10',
+      suit: 'spades',
+      rank: 10,
+      weight: 10,
+      label: '10',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-14',
+      suit: 'spades',
+      rank: 14,
+      weight: 14,
+      label: 'A',
+      trump: false
+    },
+    Card {
+      id: 'card-hearts-10',
+      suit: 'hearts',
+      rank: 10,
+      weight: 10,
+      label: '10',
+      trump: false
+    },
+    Card {
+      id: 'card-diamonds-10',
+      suit: 'diamonds',
+      rank: 10,
+      weight: 10,
+      label: '10',
+      trump: false
+    },
+    Card {
+      id: 'card-spades-13',
+      suit: 'spades',
+      rank: 13,
+      weight: 13,
+      label: 'K',
+      trump: false
+    }
+],
+  trump: Card {
+    id: 'card-clubs-12',
+    suit: 'clubs',
+    rank: 12,
+    weight: 22,
+    label: 'Q',
+    trump: true
+}
+}
